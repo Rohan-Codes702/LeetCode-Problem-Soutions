@@ -5,7 +5,9 @@ class Solution {
             if (n % 2 == 0) {
                 ans += n / 2;
                 n = n / 2;
-            } else {
+            } 
+            else 
+            {
                 ans += (n - 1) / 2;
                 n = (n - 1) / 2 + 1;
             }
