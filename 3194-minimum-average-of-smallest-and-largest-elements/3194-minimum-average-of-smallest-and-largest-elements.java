@@ -7,7 +7,7 @@ class Solution {
         
          double min=nums[j];
 
-        while(i<=nums.length/2)
+        while(i<=j)
         {
             double sum=(nums[i]+nums[j])/2.0;
             
