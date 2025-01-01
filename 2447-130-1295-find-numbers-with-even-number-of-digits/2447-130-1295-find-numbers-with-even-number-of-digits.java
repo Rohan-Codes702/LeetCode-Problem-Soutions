@@ -13,7 +13,11 @@ class Solution {
     }
     
     private int getDigits(int a){
-        String str=a+"";
-        return str.length();
+        int c=0;
+        while(a!=0){
+            a/=10;
+            c++;
+        }
+        return c;
     }
 }
