@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3194-find-words-containing-character](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3194-find-words-containing-character) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2955-account-balance-after-rounded-purchase](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3371-harshad-number](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3371-harshad-number) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3859-maximum-product-of-two-digits](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3859-maximum-product-of-two-digits) |
 ## Two Pointers
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2551-apply-operations-to-an-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2551-apply-operations-to-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3704-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
