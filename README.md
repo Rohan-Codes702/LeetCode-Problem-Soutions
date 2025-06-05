@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0073-set-matrix-zeroes) |
+| [1904-second-largest-digit-in-a-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1904-second-largest-digit-in-a-string) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 ## Sorting
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0058-length-of-last-word) |
 | [0434-number-of-segments-in-a-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0434-number-of-segments-in-a-string) |
 | [1542-consecutive-characters](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1542-consecutive-characters) |
+| [1904-second-largest-digit-in-a-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1904-second-largest-digit-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3194-find-words-containing-character) |
 ## Binary Search
 |  |
