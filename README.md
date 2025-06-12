@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
