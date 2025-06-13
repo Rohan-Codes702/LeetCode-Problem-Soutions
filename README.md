@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1293-three-consecutive-odds) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1580-shuffle-the-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1580-shuffle-the-array) |
 | [1677-matrix-diagonal-sum](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1677-matrix-diagonal-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2551-apply-operations-to-an-array) |
