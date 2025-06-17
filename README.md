@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3194-find-words-containing-character](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3194-find-words-containing-character) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3412-permutation-difference-between-two-strings) |
+| [3447-clear-digits](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3447-clear-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2551-apply-operations-to-an-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2551-apply-operations-to-an-array) |
+| [3447-clear-digits](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3447-clear-digits) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3242-count-elements-with-maximum-frequency) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
