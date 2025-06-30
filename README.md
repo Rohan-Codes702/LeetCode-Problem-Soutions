@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0141-linked-list-cycle) |
+| [0451-sort-characters-by-frequency](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0645-set-mismatch) |
 | [1319-unique-number-of-occurrences](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1319-unique-number-of-occurrences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0147-insertion-sort-list) |
+| [0451-sort-characters-by-frequency](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0645-set-mismatch) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0058-length-of-last-word) |
 | [0434-number-of-segments-in-a-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0434-number-of-segments-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0451-sort-characters-by-frequency) |
 | [0742-to-lower-case](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0742-to-lower-case) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1542-consecutive-characters](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1542-consecutive-characters) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0451-sort-characters-by-frequency) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -140,4 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0021-merge-two-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
