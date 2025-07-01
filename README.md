@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3194-find-words-containing-character) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3447-clear-digits) |
+| [3617-find-the-original-typed-string-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3617-find-the-original-typed-string-i) |
 ## Binary Search
 |  |
 | ------- |
