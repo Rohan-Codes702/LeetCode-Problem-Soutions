@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0645-set-mismatch) |
 | [1610-xor-operation-in-an-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1610-xor-operation-in-an-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
