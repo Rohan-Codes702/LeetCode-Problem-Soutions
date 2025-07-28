@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2551-apply-operations-to-an-array) |
