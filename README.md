@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3194-find-words-containing-character](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3194-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2594-count-pairs-of-similar-strings](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [2659-number-of-even-and-odd-bits](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2659-number-of-even-and-odd-bits) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3676-smallest-number-with-all-set-bits) |
