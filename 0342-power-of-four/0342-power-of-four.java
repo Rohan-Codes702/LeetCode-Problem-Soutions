@@ -1,25 +1,18 @@
 class Solution {
     public boolean isPowerOfFour(int n) {
-        return pow(n);
-        
-    }
-    public static boolean pow(int  n)
-    {
-        if(n==1)
-        {
-           return true;
-        }
-        if(n==0)
-        {
+        int num=n;
+        if(num<1){
             return false;
         }
-        if(n%4==0)
-        {
-            return pow(n/4);
+       
+
+        while(num%4==0){
+            num=num/4;
+            
         }
-        else
-        {
-            return false;
+        if(num==1){
+            return true;
         }
+        return false;
     }
 }
