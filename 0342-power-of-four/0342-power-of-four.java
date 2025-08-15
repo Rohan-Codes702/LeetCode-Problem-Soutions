@@ -4,8 +4,7 @@ class Solution {
         if(num<1){
             return false;
         }
-       
-
+    
         while(num%4==0){
             num=num/4;
             
