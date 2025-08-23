@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0075-sort-colors) |
 | [0137-single-number-ii](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0645-set-mismatch) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0287-find-the-duplicate-number) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2551-apply-operations-to-an-array) |
