@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0645-set-mismatch) |
+| [0792-binary-search](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0792-binary-search) |
 | [1137-height-checker](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1137-height-checker) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0287-find-the-duplicate-number) |
+| [0792-binary-search](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0792-binary-search) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Simulation
