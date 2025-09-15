@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1319-unique-number-of-occurrences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0451-sort-characters-by-frequency) |
 | [0742-to-lower-case](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0742-to-lower-case) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1542-consecutive-characters](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1542-consecutive-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1786-count-the-number-of-consistent-strings) |
