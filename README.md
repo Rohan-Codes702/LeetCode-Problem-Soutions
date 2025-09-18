@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0053-maximum-subarray) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0540-single-element-in-a-sorted-array) |
