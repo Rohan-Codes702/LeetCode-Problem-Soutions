@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0035-search-insert-position) |
+| [0222-count-complete-tree-nodes](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0792-binary-search) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0342-power-of-four) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0222-count-complete-tree-nodes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
 |  |
@@ -344,5 +347,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0222-count-complete-tree-nodes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
