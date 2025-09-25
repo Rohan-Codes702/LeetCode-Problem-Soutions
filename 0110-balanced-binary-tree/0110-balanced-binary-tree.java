@@ -15,33 +15,26 @@
  */
 class Solution {
     public boolean isBalanced(TreeNode root) {
-        int ht=height(root);
-        if(ht==-1)return false;
-        
-        return true; 
-        
+        return helper(root)!=-1;
     }
-    public int height(TreeNode root)
-    {
-        if(root==null)
-            {
+    public int helper(TreeNode root){
+        if(root==null){
             return 0;
-            }
-        int left= height (root.left);
-        int right=height(root.right);
-        
-        if (left==-1 || right ==-1)
-            {
-            
+        }
+
+        int leftcount=helper(root.left);
+        if(leftcount==-1){
+            return -1;
+        }
+        int rightcount=helper(root.right);
+        if(rightcount==-1){
             return -1;
         }
         
-        if(Math.abs(left -right )>1)
-            {
+        int ht=Math.abs(leftcount-rightcount);
+        if(ht>1){
             return -1;
         }
-        return 1+Math.max (left,right );
+        return Math.max(leftcount,rightcount)+1;
     }
 }
-        
-
