@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-leaf-similar-trees](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0904-leaf-similar-trees) |
+| [1005-univalued-binary-tree](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1005-univalued-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-leaf-similar-trees](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0904-leaf-similar-trees) |
+| [1005-univalued-binary-tree](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1005-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0199-binary-tree-right-side-view) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1005-univalued-binary-tree](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1005-univalued-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -378,5 +381,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-leaf-similar-trees](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0904-leaf-similar-trees) |
+| [1005-univalued-binary-tree](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1005-univalued-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2384-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
