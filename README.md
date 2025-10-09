@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0904-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1005-univalued-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2384-root-equals-sum-of-children) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-leaf-similar-trees](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0904-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1005-univalued-binary-tree) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -387,4 +389,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0904-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1005-univalued-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2384-root-equals-sum-of-children) |
+| [2416-evaluate-boolean-binary-tree](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2416-evaluate-boolean-binary-tree) |
 <!---LeetCode Topics End-->
