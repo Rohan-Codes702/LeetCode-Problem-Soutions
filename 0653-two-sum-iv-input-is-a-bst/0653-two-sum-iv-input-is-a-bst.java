@@ -15,23 +15,45 @@
  */
 class Solution {
     public boolean findTarget(TreeNode root, int k) {
-        List<Integer>list=new ArrayList<>();
-        fun(root,list);
-        for(int i=0;i<list.size();i++){
-            for(int j=0;j<list.size();j++){
-                if((list.get(i)+list.get(j)==k) && i!=j){
-                    return true;
-                }
+
+        return helper(root, k);
+    }
+
+    public boolean helper(TreeNode root, int k) {
+        ArrayList<Integer> list = new ArrayList<>();
+        if (root == null) {
+            return false;
+        }
+
+        inorder(root,list);
+        int left=0;
+        int right=list.size()-1;
+
+        while(left<right){
+            int sum=list.get(left)+list.get(right);
+
+            if(sum==k){
+                return true;
+            }
+            else if(sum<k){
+                left++;
+            }
+            else{
+                right--;
             }
         }
         return false;
+
     }
-    public void fun(TreeNode root,List<Integer>list){
-        if(root==null){
+
+    public void inorder(TreeNode root, ArrayList<Integer> list) {
+        if (root == null) {
             return;
         }
-        fun(root.left,list);
+
+        inorder(root.left, list);
         list.add(root.val);
-        fun(root.right,list);
+        inorder(root.right, list);
+
     }
 }
