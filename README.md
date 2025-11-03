@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0687-longest-univalue-path) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0904-leaf-similar-trees) |
+| [0975-range-sum-of-bst](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1035-cousins-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2384-root-equals-sum-of-children) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0687-longest-univalue-path) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0904-leaf-similar-trees) |
+| [0975-range-sum-of-bst](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1035-cousins-in-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0975-range-sum-of-bst](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0687-longest-univalue-path](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0687-longest-univalue-path) |
 | [0904-leaf-similar-trees](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0904-leaf-similar-trees) |
+| [0975-range-sum-of-bst](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1035-cousins-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2384-root-equals-sum-of-children) |
