@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1813-maximum-erasure-value) |
 | [1848-sum-of-unique-elements](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1848-sum-of-unique-elements) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1610-xor-operation-in-an-array) |
 | [1642-water-bottles](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1642-water-bottles) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -427,4 +429,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1035-cousins-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2416-evaluate-boolean-binary-tree) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
