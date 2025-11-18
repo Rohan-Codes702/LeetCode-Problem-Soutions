@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0645-set-mismatch) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0792-binary-search](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0792-binary-search) |
 | [1137-height-checker](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1137-height-checker) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1210-mean-of-array-after-removing-some-elements) |
