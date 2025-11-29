@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2955-account-balance-after-rounded-purchase](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3371-harshad-number](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3371-harshad-number) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3704-count-partitions-with-even-sum-difference) |
