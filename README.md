@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0451-sort-characters-by-frequency) |
+| [0520-detect-capital](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0742-to-lower-case) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1264-maximum-number-of-words-you-can-type) |
