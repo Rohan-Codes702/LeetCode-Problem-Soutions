@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0485-max-consecutive-ones) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0147-insertion-sort-list) |
 | [0229-majority-element-ii](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0645-set-mismatch) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0274-h-index) |
 | [1137-height-checker](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1137-height-checker) |
 ## Divide and Conquer
 |  |
