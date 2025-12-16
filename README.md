@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0075-sort-colors) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0011-container-with-most-water) |
 | [1448-maximum-69-number](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1448-maximum-69-number) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
