@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2427-number-of-common-factors](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2427-number-of-common-factors) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3115-maximum-prime-difference](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3115-maximum-prime-difference) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0147-insertion-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Bit Manipulation
 |  |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2427-number-of-common-factors) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3115-maximum-prime-difference](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3115-maximum-prime-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
