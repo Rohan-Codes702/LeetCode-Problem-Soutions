@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3115-maximum-prime-difference](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3115-maximum-prime-difference) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3165-find-indices-with-index-and-value-difference-i) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3859-maximum-product-of-two-digits](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3859-maximum-product-of-two-digits) |
 ## Math
 |  |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0011-container-with-most-water) |
 | [1448-maximum-69-number](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1448-maximum-69-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Segment Tree
