@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0560-subarray-sum-equals-k) |
 | [3028-ant-on-the-boundary](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3028-ant-on-the-boundary) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Counting
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0643-maximum-average-subarray-i) |
 | [1813-maximum-erasure-value](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1813-maximum-erasure-value) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Greedy
 |  |
 | ------- |
