@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1013-fibonacci-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1448-maximum-69-number) |
