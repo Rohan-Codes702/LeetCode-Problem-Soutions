@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1580-shuffle-the-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1580-shuffle-the-array) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1677-matrix-diagonal-sum](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1677-matrix-diagonal-sum) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1813-maximum-erasure-value) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1542-consecutive-characters](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1542-consecutive-characters) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1904-second-largest-digit-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1960-check-if-the-sentence-is-pangram) |
