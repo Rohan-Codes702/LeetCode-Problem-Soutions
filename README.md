@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1137-height-checker](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1137-height-checker) |
+| [1200-minimum-absolute-difference](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1200-minimum-absolute-difference) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1293-three-consecutive-odds) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0645-set-mismatch) |
 | [0846-hand-of-straights](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0846-hand-of-straights) |
 | [1137-height-checker](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1137-height-checker) |
+| [1200-minimum-absolute-difference](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1200-minimum-absolute-difference) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
