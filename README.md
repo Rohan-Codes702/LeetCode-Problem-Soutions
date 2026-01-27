@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1319-unique-number-of-occurrences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1390-four-divisors](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1390-four-divisors) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1580-shuffle-the-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1580-shuffle-the-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1390-four-divisors](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1390-four-divisors) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1448-maximum-69-number) |
