@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0645-set-mismatch) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0792-binary-search) |
 | [0821-shortest-distance-to-a-character](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0846-hand-of-straights](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0846-hand-of-straights) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0792-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2210-find-target-indices-after-sorting-array) |
