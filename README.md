@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3379-transformed-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3379-transformed-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2551-apply-operations-to-an-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2551-apply-operations-to-an-array) |
 | [3028-ant-on-the-boundary](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3028-ant-on-the-boundary) |
+| [3379-transformed-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3379-transformed-array) |
 | [3447-clear-digits](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3447-clear-digits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3790-fruits-into-baskets-ii) |
