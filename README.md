@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3713-longest-balanced-substring-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3713-longest-balanced-substring-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3447-clear-digits) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3617-find-the-original-typed-string-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3617-find-the-original-typed-string-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3713-longest-balanced-substring-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Search
 |  |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3713-longest-balanced-substring-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3713-longest-balanced-substring-i) |
 ## Stack
 |  |
 | ------- |
@@ -610,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-count-special-quadruplets](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1995-count-special-quadruplets) |
 | [2083-three-divisors](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2083-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2427-number-of-common-factors) |
+| [3713-longest-balanced-substring-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3713-longest-balanced-substring-i) |
 ## Combinatorics
 |  |
 | ------- |
