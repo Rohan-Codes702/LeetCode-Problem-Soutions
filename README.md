@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3832-minimum-cost-to-reach-every-position) |
+| [3839-number-of-prefix-connected-groups](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3839-number-of-prefix-connected-groups) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3713-longest-balanced-substring-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3713-longest-balanced-substring-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3839-number-of-prefix-connected-groups](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3839-number-of-prefix-connected-groups) |
 ## Sorting
 |  |
 | ------- |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3617-find-the-original-typed-string-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3617-find-the-original-typed-string-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3713-longest-balanced-substring-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3839-number-of-prefix-connected-groups](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3839-number-of-prefix-connected-groups) |
 ## Binary Search
 |  |
 | ------- |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3713-longest-balanced-substring-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3713-longest-balanced-substring-i) |
+| [3839-number-of-prefix-connected-groups](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3839-number-of-prefix-connected-groups) |
 ## Stack
 |  |
 | ------- |
