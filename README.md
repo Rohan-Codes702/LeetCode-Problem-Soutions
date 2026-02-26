@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1542-consecutive-characters](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1542-consecutive-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1786-count-the-number-of-consistent-strings) |
