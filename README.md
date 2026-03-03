@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0645-set-mismatch) |
+| [0665-non-decreasing-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0665-non-decreasing-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0792-binary-search) |
