@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1816-truncate-sentence) |
 | [1848-sum-of-unique-elements](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1848-sum-of-unique-elements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1929-concatenation-of-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1995-count-special-quadruplets](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1995-count-special-quadruplets) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1642-water-bottles) |
+| [1929-concatenation-of-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1929-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2271-rearrange-array-elements-by-sign) |
