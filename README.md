@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2551-apply-operations-to-an-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2551-apply-operations-to-an-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2594-count-pairs-of-similar-strings) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2413-smallest-even-multiple](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2427-number-of-common-factors) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3115-maximum-prime-difference](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3115-maximum-prime-difference) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2427-first-letter-to-appear-twice) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
