@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1319-unique-number-of-occurrences) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0451-sort-characters-by-frequency) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1786-count-the-number-of-consistent-strings) |
