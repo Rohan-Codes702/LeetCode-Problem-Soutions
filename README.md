@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1813-maximum-erasure-value) |
 | [1848-sum-of-unique-elements](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1848-sum-of-unique-elements) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1816-truncate-sentence) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1904-second-largest-digit-in-a-string) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1848-sum-of-unique-elements) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
