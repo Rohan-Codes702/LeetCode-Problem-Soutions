@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1816-truncate-sentence) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1904-second-largest-digit-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
