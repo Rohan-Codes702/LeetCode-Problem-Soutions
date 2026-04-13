@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1813-maximum-erasure-value) |
 | [1816-truncate-sentence](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1816-truncate-sentence) |
 | [1848-sum-of-unique-elements](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1848-sum-of-unique-elements) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1929-concatenation-of-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1929-concatenation-of-array) |
