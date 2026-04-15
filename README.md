@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2551-apply-operations-to-an-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2594-count-pairs-of-similar-strings) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2365-percentage-of-letter-in-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2427-first-letter-to-appear-twice) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3194-find-words-containing-character](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3194-find-words-containing-character) |
