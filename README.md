@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0561-array-partition) |
+| [0565-array-nesting](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0565-array-nesting) |
 | [0643-maximum-average-subarray-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0645-set-mismatch) |
 | [0665-non-decreasing-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0665-non-decreasing-array) |
@@ -644,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0563-binary-tree-tilt) |
+| [0565-array-nesting](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0565-array-nesting) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0687-longest-univalue-path](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0687-longest-univalue-path) |
