@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2594-count-pairs-of-similar-strings) |
+| [2833-furthest-point-from-origin](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2833-furthest-point-from-origin) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3194-find-words-containing-character](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3194-find-words-containing-character) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3223-minimum-length-of-string-after-operations) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [2748-number-of-beautiful-pairs](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2748-number-of-beautiful-pairs) |
+| [2833-furthest-point-from-origin](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2833-furthest-point-from-origin) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3242-count-elements-with-maximum-frequency) |
