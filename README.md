@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0287-find-the-duplicate-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0347-top-k-frequent-elements](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0347-top-k-frequent-elements) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0485-max-consecutive-ones) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0179-largest-number) |
 | [0290-word-pattern](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0290-word-pattern) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0389-find-the-difference](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0287-find-the-duplicate-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0342-power-of-four](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0389-find-the-difference) |
