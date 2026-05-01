@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2551-apply-operations-to-an-array) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Matrix
 |  |
 | ------- |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3617-find-the-original-typed-string-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3617-find-the-original-typed-string-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3713-longest-balanced-substring-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3839-number-of-prefix-connected-groups](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3839-number-of-prefix-connected-groups) |
 ## Binary Search
 |  |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3379-transformed-array) |
 | [3447-clear-digits](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3447-clear-digits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3790-fruits-into-baskets-ii](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Prefix Sum
 |  |
