@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0551-student-attendance-record-i) |
+| [0686-repeated-string-match](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0692-top-k-frequent-words) |
 | [0742-to-lower-case](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0742-to-lower-case) |
 | [0791-custom-sort-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0791-custom-sort-string) |
@@ -762,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0686-repeated-string-match) |
 ## Quickselect
 |  |
 | ------- |
