@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2364-count-number-of-bad-pairs](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2364-count-number-of-bad-pairs) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2427-first-letter-to-appear-twice](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [2659-number-of-even-and-odd-bits](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2659-number-of-even-and-odd-bits) |
@@ -783,4 +785,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2396-strictly-palindromic-number) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2425-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
