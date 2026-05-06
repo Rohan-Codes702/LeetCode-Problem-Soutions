@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1293-three-consecutive-odds) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1319-unique-number-of-occurrences](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1319-unique-number-of-occurrences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0908-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1390-four-divisors](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1390-four-divisors) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
