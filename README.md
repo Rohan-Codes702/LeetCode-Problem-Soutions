@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2427-number-of-common-factors) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2523-closest-prime-numbers-in-range) |
 | [2748-number-of-beautiful-pairs](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2748-number-of-beautiful-pairs) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2955-account-balance-after-rounded-purchase) |
@@ -746,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2427-number-of-common-factors) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2523-closest-prime-numbers-in-range) |
 | [2748-number-of-beautiful-pairs](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2748-number-of-beautiful-pairs) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3115-maximum-prime-difference](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3115-maximum-prime-difference) |
