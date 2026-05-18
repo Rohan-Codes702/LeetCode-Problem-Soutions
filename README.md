@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0791-custom-sort-string) |
 | [0846-hand-of-straights](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0846-hand-of-straights) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0970-powerful-integers](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0970-powerful-integers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1054-distant-barcodes](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1054-distant-barcodes) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0371-sum-of-two-integers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0908-smallest-range-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0908-smallest-range-i) |
+| [0970-powerful-integers](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0970-powerful-integers) |
 | [1013-fibonacci-number](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1131-maximum-of-absolute-value-expression) |
@@ -766,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0970-powerful-integers](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0970-powerful-integers) |
 | [1925-count-square-sum-triples](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1925-count-square-sum-triples) |
 | [1995-count-special-quadruplets](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1995-count-special-quadruplets) |
 | [2083-three-divisors](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2083-three-divisors) |
