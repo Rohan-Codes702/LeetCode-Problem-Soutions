@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2748-number-of-beautiful-pairs](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2748-number-of-beautiful-pairs) |
 | [2784-check-if-array-is-good](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2784-check-if-array-is-good) |
 | [2792-neighboring-bitwise-xor](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2792-neighboring-bitwise-xor) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2594-count-pairs-of-similar-strings) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2748-number-of-beautiful-pairs](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2748-number-of-beautiful-pairs) |
 | [2784-check-if-array-is-good](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2427-first-letter-to-appear-twice](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2594-count-pairs-of-similar-strings) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2659-number-of-even-and-odd-bits](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2659-number-of-even-and-odd-bits) |
 | [2792-neighboring-bitwise-xor](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2792-neighboring-bitwise-xor) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3044-minimum-operations-to-collect-elements) |
