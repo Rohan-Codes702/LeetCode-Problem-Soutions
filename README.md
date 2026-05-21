@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2960-count-tested-devices-after-test-operations](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3002-maximum-size-of-a-set-after-removals) |
 | [3028-ant-on-the-boundary](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3028-ant-on-the-boundary) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3002-maximum-size-of-a-set-after-removals) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2594-count-pairs-of-similar-strings](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2594-count-pairs-of-similar-strings) |
 | [2833-furthest-point-from-origin](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2833-furthest-point-from-origin) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3194-find-words-containing-character](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3194-find-words-containing-character) |
@@ -807,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0692-top-k-frequent-words) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Brainteaser
 |  |
 | ------- |
