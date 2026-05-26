@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3002-maximum-size-of-a-set-after-removals) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3223-minimum-length-of-string-after-operations) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3194-find-words-containing-character](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3194-find-words-containing-character) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3223-minimum-length-of-string-after-operations) |
