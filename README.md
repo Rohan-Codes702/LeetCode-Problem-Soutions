@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0075-sort-colors) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0141-linked-list-cycle) |
 | [0229-majority-element-ii](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0229-majority-element-ii) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0147-insertion-sort-list) |
 | [0179-largest-number](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0179-largest-number) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0179-largest-number) |
 | [0290-word-pattern](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0290-word-pattern) |
