@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3379-transformed-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3379-transformed-array) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3115-maximum-prime-difference](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3115-maximum-prime-difference) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3371-harshad-number](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3371-harshad-number) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
