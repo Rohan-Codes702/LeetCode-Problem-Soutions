@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0846-hand-of-straights) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0908-smallest-range-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0908-smallest-range-i) |
+| [0915-partition-array-into-disjoint-intervals](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1054-distant-barcodes](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1054-distant-barcodes) |
