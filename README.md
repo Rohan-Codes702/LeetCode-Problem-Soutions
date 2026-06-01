@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1448-maximum-69-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3002-maximum-size-of-a-set-after-removals) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3075-maximize-happiness-of-selected-children) |
