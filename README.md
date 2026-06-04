@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2365-percentage-of-letter-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2390-removing-stars-from-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2288-count-operations-to-obtain-zero) |
+| [2390-removing-stars-from-a-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2390-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2551-apply-operations-to-an-array) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3028-ant-on-the-boundary](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3028-ant-on-the-boundary) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2000-reverse-prefix-of-word) |
+| [2390-removing-stars-from-a-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2390-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3447-clear-digits) |
 ## Linked List
 |  |
