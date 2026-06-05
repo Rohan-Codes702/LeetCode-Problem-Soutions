@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1390-four-divisors](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1390-four-divisors) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1470-shuffle-the-array) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1324-print-words-vertically](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1324-print-words-vertically) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2109-adding-spaces-to-a-string) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2390-removing-stars-from-a-string) |
