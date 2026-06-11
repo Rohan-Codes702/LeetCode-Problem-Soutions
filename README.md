@@ -540,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0155-min-stack) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0946-validate-stack-sequences) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -832,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0155-min-stack) |
 | [0707-design-linked-list](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0707-design-linked-list) |
 ## String Matching
 |  |
