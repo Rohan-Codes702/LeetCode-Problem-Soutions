@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0665-non-decreasing-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0665-non-decreasing-array) |
 | [0692-top-k-frequent-words](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0692-top-k-frequent-words) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0735-asteroid-collision](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0792-binary-search) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0946-validate-stack-sequences) |
 | [1324-print-words-vertically](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1324-print-words-vertically) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0155-min-stack) |
+| [0735-asteroid-collision](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0946-validate-stack-sequences) |
