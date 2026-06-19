@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3713-longest-balanced-substring-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3829-design-ride-sharing-system](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3829-design-ride-sharing-system) |
 | [3839-number-of-prefix-connected-groups](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3839-number-of-prefix-connected-groups) |
 ## Sorting
 |  |
@@ -848,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0225-implement-stack-using-queues) |
 | [0707-design-linked-list](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0707-design-linked-list) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1381-design-a-stack-with-increment-operation) |
+| [3829-design-ride-sharing-system](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3829-design-ride-sharing-system) |
 ## String Matching
 |  |
 | ------- |
@@ -882,4 +884,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0225-implement-stack-using-queues) |
+| [3829-design-ride-sharing-system](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3829-design-ride-sharing-system) |
+## Data Stream
+|  |
+| ------- |
+| [3829-design-ride-sharing-system](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3829-design-ride-sharing-system) |
 <!---LeetCode Topics End-->
