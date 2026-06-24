@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2000-reverse-prefix-of-word](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2000-reverse-prefix-of-word) |
 | [2211-count-collisions-on-a-road](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2211-count-collisions-on-a-road) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2390-removing-stars-from-a-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2390-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3447-clear-digits) |
 ## Linked List
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3002-maximum-size-of-a-set-after-removals) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3075-maximize-happiness-of-selected-children) |
