@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3713-longest-balanced-substring-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3829-design-ride-sharing-system](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3829-design-ride-sharing-system) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3364-minimum-positive-sum-subarray](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3788-maximum-score-of-a-split](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3788-maximum-score-of-a-split) |
 ## Counting
 |  |
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3713-longest-balanced-substring-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3839-number-of-prefix-connected-groups](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3839-number-of-prefix-connected-groups) |
 ## Stack
 |  |
@@ -675,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -694,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0347-top-k-frequent-elements) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -894,4 +900,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3829-design-ride-sharing-system](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3829-design-ride-sharing-system) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
