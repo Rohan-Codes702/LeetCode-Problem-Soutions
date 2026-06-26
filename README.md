@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3194-find-words-containing-character) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3396-valid-word](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3396-valid-word) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3447-clear-digits) |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Greedy
 |  |
