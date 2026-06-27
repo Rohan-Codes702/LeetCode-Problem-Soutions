@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0073-set-matrix-zeroes) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0141-linked-list-cycle) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0155-min-stack) |
@@ -706,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1013-fibonacci-number) |
@@ -892,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0739-daily-temperatures) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Queue
