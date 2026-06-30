@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2211-count-collisions-on-a-road](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2211-count-collisions-on-a-road) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2365-percentage-of-letter-in-string) |
