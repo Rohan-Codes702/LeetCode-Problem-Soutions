@@ -924,4 +924,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0022-generate-parentheses) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
