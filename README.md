@@ -937,4 +937,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0577-employee-bonus) |
 | [1075-project-employees-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1667-fix-names-in-a-table](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1667-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
