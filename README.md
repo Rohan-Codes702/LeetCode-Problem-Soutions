@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1131-maximum-of-absolute-value-expression](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1362-closest-divisors](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1362-closest-divisors) |
 | [1390-four-divisors](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1390-four-divisors) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
