@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0371-sum-of-two-integers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0754-reach-a-number](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0754-reach-a-number) |
 | [0908-smallest-range-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0908-smallest-range-i) |
 | [0970-powerful-integers](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0970-powerful-integers) |
 | [1013-fibonacci-number](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1013-fibonacci-number) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0754-reach-a-number](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0754-reach-a-number) |
 | [0792-binary-search](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0875-koko-eating-bananas) |
