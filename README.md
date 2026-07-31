@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0645-set-mismatch) |
 | [0665-non-decreasing-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0665-non-decreasing-array) |
 | [0692-top-k-frequent-words](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0692-top-k-frequent-words) |
+| [0705-design-hashset](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0705-design-hashset) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0735-asteroid-collision](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0739-daily-temperatures) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0692-top-k-frequent-words) |
+| [0705-design-hashset](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0705-design-hashset) |
 | [0791-custom-sort-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0791-custom-sort-string) |
 | [0846-hand-of-straights](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0846-hand-of-straights) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0147-insertion-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0705-design-hashset](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0707-design-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -903,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0225-implement-stack-using-queues) |
+| [0705-design-hashset](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0707-design-linked-list) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [3829-design-ride-sharing-system](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3829-design-ride-sharing-system) |
@@ -967,4 +971,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0128-longest-consecutive-sequence) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
