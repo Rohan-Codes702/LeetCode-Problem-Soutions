@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3731-find-missing-elements](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3713-longest-balanced-substring-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3713-longest-balanced-substring-i) |
+| [3731-find-missing-elements](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3467-transform-array-by-parity](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3731-find-missing-elements) |
 | [3859-maximum-product-of-two-digits](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3859-maximum-product-of-two-digits) |
 ## Math
 |  |
