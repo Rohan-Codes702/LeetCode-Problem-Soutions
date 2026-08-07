@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0274-h-index) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0200-number-of-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1677-matrix-diagonal-sum) |
@@ -809,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -835,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0200-number-of-islands) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -979,6 +983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0200-number-of-islands) |
 ## Hash Function
 |  |
 | ------- |
