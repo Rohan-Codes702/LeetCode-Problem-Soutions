@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2784-check-if-array-is-good) |
 | [2792-neighboring-bitwise-xor](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2792-neighboring-bitwise-xor) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3002-maximum-size-of-a-set-after-removals) |
 | [3028-ant-on-the-boundary](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3028-ant-on-the-boundary) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2748-number-of-beautiful-pairs](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2748-number-of-beautiful-pairs) |
 | [2784-check-if-array-is-good](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3002-maximum-size-of-a-set-after-removals) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3044-minimum-operations-to-collect-elements) |
@@ -704,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1813-maximum-erasure-value) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
