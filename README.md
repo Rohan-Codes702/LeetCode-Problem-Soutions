@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3649-number-of-perfect-pairs](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3649-number-of-perfect-pairs) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-find-missing-elements](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3467-transform-array-by-parity](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3649-number-of-perfect-pairs](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3649-number-of-perfect-pairs) |
 | [3731-find-missing-elements](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3731-find-missing-elements) |
 | [3859-maximum-product-of-two-digits](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3859-maximum-product-of-two-digits) |
 ## Math
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3649-number-of-perfect-pairs](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3649-number-of-perfect-pairs) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2551-apply-operations-to-an-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2551-apply-operations-to-an-array) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+| [3649-number-of-perfect-pairs](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3649-number-of-perfect-pairs) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Matrix
 |  |
