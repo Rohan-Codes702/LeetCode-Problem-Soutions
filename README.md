@@ -996,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0577-employee-bonus) |
 | [0596-classes-with-at-least-5-students](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0596-classes-with-at-least-5-students) |
+| [0619-biggest-single-number](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0619-biggest-single-number) |
 | [1075-project-employees-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
