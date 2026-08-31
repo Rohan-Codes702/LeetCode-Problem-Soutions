@@ -10,41 +10,44 @@
  */
 class Solution {
     public int[] nodesBetweenCriticalPoints(ListNode head) {
-        int res[] = { -1, -1 };
+        int[] ans = { -1, -1 };
         ArrayList<Integer> list = new ArrayList<>();
 
-        ListNode prev = head;
-        ListNode temp = head.next;
-        ListNode nxt = head.next.next;
-        int index = 1;
-        while (nxt != null) {
-            if (prev.val < temp.val && nxt.val < temp.val) {
-                list.add(index);
-
-            }
-            if (prev.val > temp.val && nxt.val > temp.val) {
-                list.add(index);
-            }
-            index++;
-            nxt = nxt.next;
-            temp = temp.next;
-            prev = prev.next;
+        if(head==null || head.next==null || head.next.next==null){
+            return ans;
         }
-        if (list.size() < 2)
-            return res;
 
-        Collections.sort(list);
+        ListNode temp = head;
+        ListNode temp1 = head.next;
+        ListNode temp2 = head.next.next;
+        int i = 0;
 
-        int min = Integer.MAX_VALUE;
-    
-        for (int i = 1; i < list.size(); i++) {
-            min=Math.min(list.get(i)-list.get(i-1),min);
+        
+        while (temp2 != null) {
+            if (temp.val < temp1.val && temp1.val > temp2.val) {
+                list.add(i);
+            }
+            if (temp.val > temp1.val && temp1.val < temp2.val) {
+                list.add(i);
+            }
+            i++;
+            temp2 = temp2.next;
+            temp1 = temp1.next;
+            temp = temp.next;
+        }
+
+        if(list.size()<2){
+            return ans;
         }
         int max=list.get(list.size()-1)-list.get(0);
-        res[0] = min;
-        res[1] = max;
+        int min=Integer.MAX_VALUE;
+        for(int j=1;j<list.size();j++ ){
+            min=Math.min(min,list.get(j)-list.get(j-1));
+        }
+        ans[0]=min;
+        ans[1]=max;
 
-        return res;
+        return ans;
 
     }
 }
