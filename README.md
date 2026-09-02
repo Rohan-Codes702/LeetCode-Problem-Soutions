@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3832-minimum-cost-to-reach-every-position](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3839-number-of-prefix-connected-groups](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3839-number-of-prefix-connected-groups) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3830-find-closest-person](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3859-maximum-product-of-two-digits](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3859-maximum-product-of-two-digits) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
 |  |
