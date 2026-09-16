@@ -459,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1324-print-words-vertically](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1324-print-words-vertically) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
