@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2364-count-number-of-bad-pairs](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2364-count-number-of-bad-pairs) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2364-count-number-of-bad-pairs](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2364-count-number-of-bad-pairs) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
