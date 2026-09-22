@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0915-partition-array-into-disjoint-intervals](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0946-validate-stack-sequences](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0946-validate-stack-sequences) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1002-find-common-characters](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1002-find-common-characters) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0692-top-k-frequent-words) |
 | [0791-custom-sort-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0791-custom-sort-string) |
 | [0846-hand-of-straights](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0846-hand-of-straights) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1054-distant-barcodes](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1054-distant-barcodes) |
 | [1137-height-checker](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1137-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1200-minimum-absolute-difference) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0946-validate-stack-sequences) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1324-print-words-vertically](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1324-print-words-vertically) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1441-build-an-array-with-stack-operations) |
@@ -985,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0225-implement-stack-using-queues) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [3829-design-ride-sharing-system](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3829-design-ride-sharing-system) |
 ## Data Stream
 |  |
