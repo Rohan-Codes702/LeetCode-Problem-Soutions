@@ -496,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2000-reverse-prefix-of-word) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2109-adding-spaces-to-a-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2109-adding-spaces-to-a-string) |
+| [2129-capitalize-the-title](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2129-capitalize-the-title) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2211-count-collisions-on-a-road](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2211-count-collisions-on-a-road) |
