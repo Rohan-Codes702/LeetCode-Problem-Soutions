@@ -458,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0551-student-attendance-record-i) |
+| [0678-valid-parenthesis-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0692-top-k-frequent-words) |
 | [0742-to-lower-case](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0742-to-lower-case) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0225-implement-stack-using-queues) |
+| [0678-valid-parenthesis-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -762,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0561-array-partition) |
+| [0678-valid-parenthesis-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0846-hand-of-straights) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1054-distant-barcodes](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1054-distant-barcodes) |
@@ -810,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1013-fibonacci-number) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Memoization
@@ -1058,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
