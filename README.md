@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0792-binary-search) |
+| [0817-linked-list-components](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0817-linked-list-components) |
 | [0821-shortest-distance-to-a-character](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0846-hand-of-straights](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0846-hand-of-straights) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0705-design-hashset) |
 | [0791-custom-sort-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0791-custom-sort-string) |
+| [0817-linked-list-components](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0817-linked-list-components) |
 | [0846-hand-of-straights](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0846-hand-of-straights) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0970-powerful-integers](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0970-powerful-integers) |
@@ -674,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0705-design-hashset](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0707-design-linked-list) |
+| [0817-linked-list-components](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0817-linked-list-components) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2181-merge-nodes-in-between-zeros) |
