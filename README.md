@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0748-shortest-completing-word](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0748-shortest-completing-word) |
 | [0792-binary-search](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0792-binary-search) |
 | [0817-linked-list-components](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0817-linked-list-components) |
 | [0821-shortest-distance-to-a-character](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0821-shortest-distance-to-a-character) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0705-design-hashset) |
+| [0748-shortest-completing-word](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0748-shortest-completing-word) |
 | [0791-custom-sort-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0791-custom-sort-string) |
 | [0817-linked-list-components](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0817-linked-list-components) |
 | [0846-hand-of-straights](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0846-hand-of-straights) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0692-top-k-frequent-words) |
 | [0742-to-lower-case](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0742-to-lower-case) |
+| [0748-shortest-completing-word](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0748-shortest-completing-word) |
 | [0791-custom-sort-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0821-shortest-distance-to-a-character) |
