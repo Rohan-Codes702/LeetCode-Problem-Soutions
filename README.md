@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2748-number-of-beautiful-pairs](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2748-number-of-beautiful-pairs) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2784-check-if-array-is-good) |
 | [2792-neighboring-bitwise-xor](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2792-neighboring-bitwise-xor) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -966,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-count-special-quadruplets](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1995-count-special-quadruplets) |
 | [2083-three-divisors](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2083-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2427-number-of-common-factors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3713-longest-balanced-substring-i) |
 ## Combinatorics
