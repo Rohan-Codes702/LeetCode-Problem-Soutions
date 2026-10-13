@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3649-number-of-perfect-pairs](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3649-number-of-perfect-pairs) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3649-number-of-perfect-pairs](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3649-number-of-perfect-pairs) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3731-find-missing-elements) |
 | [3859-maximum-product-of-two-digits](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3859-maximum-product-of-two-digits) |
 ## Math
@@ -786,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Segment Tree
 |  |
