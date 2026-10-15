@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2784-check-if-array-is-good) |
 | [2792-neighboring-bitwise-xor](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2792-neighboring-bitwise-xor) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3002-maximum-size-of-a-set-after-removals) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2748-number-of-beautiful-pairs](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2748-number-of-beautiful-pairs) |
 | [2784-check-if-array-is-good](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3002-maximum-size-of-a-set-after-removals) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -793,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
@@ -1084,4 +1087,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
