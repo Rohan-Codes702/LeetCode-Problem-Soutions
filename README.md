@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-count-special-quadruplets](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1995-count-special-quadruplets) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Simulation
