@@ -712,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0397-integer-replacement) |
 | [0461-hamming-distance](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0693-binary-number-with-alternating-bits) |
@@ -781,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0179-largest-number) |
+| [0397-integer-replacement](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0397-integer-replacement) |
 | [0561-array-partition](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0846-hand-of-straights) |
@@ -833,12 +835,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0392-is-subsequence) |
+| [0397-integer-replacement](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0397-integer-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1013-fibonacci-number) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Memoization
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0397-integer-replacement) |
 | [1013-fibonacci-number](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
