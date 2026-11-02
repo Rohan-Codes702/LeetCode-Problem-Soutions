@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0347-top-k-frequent-elements](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0347-top-k-frequent-elements) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0560-subarray-sum-equals-k) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0645-set-mismatch) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0371-sum-of-two-integers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0754-reach-a-number](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0754-reach-a-number) |
 | [0908-smallest-range-i](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/0908-smallest-range-i) |
