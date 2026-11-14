@@ -557,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3839-number-of-prefix-connected-groups](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3839-number-of-prefix-connected-groups) |
 | [3889-mirror-frequency-distance](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/3889-mirror-frequency-distance) |
+| [4106-find-mismatched-segments-between-two-strings](https://github.com/Rohan-Codes702/LeetCode-Problem-Soutions/tree/master/4106-find-mismatched-segments-between-two-strings) |
 ## Binary Search
 |  |
 | ------- |
